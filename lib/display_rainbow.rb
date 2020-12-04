@@ -12,3 +12,5 @@ colors = [
   "indigo",
   "violet"
 ]
+
+display_rainbow(colors)
