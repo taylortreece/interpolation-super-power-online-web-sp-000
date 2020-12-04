@@ -5,7 +5,7 @@ end
 
 colors = [
   "red",
-  "orange"
+  "orange",
   "yellow",
   "green",
   "blue",
